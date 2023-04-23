@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> <em>My GitHub Data:</em>
 <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ArchismwanChatterjee&langs_count=10&show_icons=true&theme=gotham" alt="ArchismwanChatterjee" /> 
 <p align=""> <img src="https://streak-stats.demolab.com?user=ArchismwanChatterjee&theme=gotham" alt="ArchismwanChatterjee" /></p>  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArchismwanChatterjee&theme=tokyonight" alt="ArchismwanChatterjee" />
