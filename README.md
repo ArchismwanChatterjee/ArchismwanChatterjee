@@ -4,6 +4,7 @@
 
 [![Linkedin: archismwanchatterjee](https://img.shields.io/badge/-archismwanchatterjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archismwanchatterjee/)](https://www.linkedin.com/in/archismwan-chatterjee-61108a253/)
 [![GitHub ArchismwanChatterjee](https://img.shields.io/github/followers/ArchismwanChatterjee?label=follow&style=social)](https://github.com/ArchismwanChatterjee)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArchismwanChatterjee&label=Profile%20views&color=bf1dbf&style=flat" alt="ArchismwanChatterjee" /> </p>
   
 
 
