@@ -1,6 +1,6 @@
 <h2><em>Hi👋 I'm Archismwan Chatterjee ! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p>🎓Computer Engineering Student at <a href="http://nsec.ac.in">Netaji Subhash Engineering College </em></a>
+<p>🎓Computer Science Engineering Student at <a href="http://nsec.ac.in">Netaji Subhash Engineering College </em></a>
 
 [![Linkedin: archismwanchatterjee](https://img.shields.io/badge/-archismwanchatterjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archismwanchatterjee/)](https://www.linkedin.com/in/archismwan-chatterjee-61108a253/)
 [![GitHub ArchismwanChatterjee](https://img.shields.io/github/followers/ArchismwanChatterjee?label=follow&style=social)](https://github.com/ArchismwanChatterjee)
