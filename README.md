@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ArchismwanChatterjee&theme=dark" alt="gadzrux" /></p>
 -->
 - 🔭 I’m currently working on codes <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning Web Dev,C,Python
 - 📫 [How to reach me:](archismwancmail@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: White-faced capuchin monkeys greet each other by sticking their fingers up each others’ noses.
