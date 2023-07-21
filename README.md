@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on codes <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Web Dev,C,Python
-- 📫 [How to reach me:](archismwancmail@gmail.com)
+- 📫 [How to reach me:](mailto:archismwancmail@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: White-faced capuchin monkeys greet each other by sticking their fingers up each others’ noses.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [GitHub](https://github.com/ArchismwanChatterjee) <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="30">
 - 🎭 B𝚝𝚠 you can connect with me on [LinkedIn](https://www.linkedin.com/in/archismwan-chatterjee-61108a253/)<img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30">
+
+<h1><em>Link-Tree</em></h1>
+Click here to access my link-tree ⬇️
+
+[Link-Tree](https://archismwanchatterjee.github.io/LinkTree/)
 
 <p><h2><em>My motivations :</h2></em></p>
 <p><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"></p>
