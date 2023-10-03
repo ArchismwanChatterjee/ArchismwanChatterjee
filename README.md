@@ -52,14 +52,14 @@ Click here to access my link-tree ⬇️
 <h2><em>Quick Overview<em></h2>
 <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> <em>My GitHub Data:</em>
 <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ArchismwanChatterjee&langs_count=10&show_icons=true&theme=gotham" alt="ArchismwanChatterjee" /> 
-<p align=""> <img src="https://streak-stats.demolab.com?user=ArchismwanChatterjee&theme=gotham" alt="ArchismwanChatterjee" /></p>  
+<p align=""> <img src="https://streak-stats.demolab.com/?user=ArchismwanChatterjee&theme=gotham" alt="ArchismwanChatterjee" /></p>  
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
   
 - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArchismwanChatterjee&theme=tokyonight" alt="ArchismwanChatterjee" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArchismwanChatterjee&theme=tokyonight" alt="ArchismwanChatterjee" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArchismwanChatterjee&theme=gotham" alt="ArchismwanChatterjee" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArchismwanChatterjee&theme=gotham" alt="ArchismwanChatterjee" />
  
  - **<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"> My Profile Trophies:**   
  <p align=""> <img src="https://github-profile-trophy.vercel.app/?username=ArchismwanChatterjee&theme=juicyfresh&row=2&column=3" alt=ArchismwanChatterjee />  
