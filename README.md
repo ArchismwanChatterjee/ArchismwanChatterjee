@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🎭 B𝚝𝚠 you can connect with me on [LinkedIn](https://www.linkedin.com/in/archismwan-chatterjee-61108a253/)<img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30">
 
 <h1><em>Link-Tree</em></h1>
-Click here to access my link-tree ⬇️
+Click here to access my link-tree where all my links are available ⬇️
 
 [Link-Tree](https://archismwanchatterjee.github.io/LinkTree/)
 
