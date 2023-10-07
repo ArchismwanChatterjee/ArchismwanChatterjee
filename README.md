@@ -51,8 +51,8 @@ Click here to access my link-tree ⬇️
 
 <h2><em>Quick Overview<em></h2>
 <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> <em>My GitHub Data:</em>
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ArchismwanChatterjee&langs_count=10&show_icons=true&theme=gotham" alt="ArchismwanChatterjee" /> 
-<p align=""> <img src="https://streak-stats.demolab.com/?user=ArchismwanChatterjee&theme=gotham" alt="ArchismwanChatterjee" /></p>  
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ArchismwanChatterjee&langs_count=10&show_icons=true&theme=gruvbox" alt="ArchismwanChatterjee" /> 
+<p align=""> <img src="https://streak-stats.demolab.com/?user=ArchismwanChatterjee%20&theme=gruvbox" alt="ArchismwanChatterjee" /></p>  
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
