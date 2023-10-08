@@ -69,7 +69,7 @@ Click here to access my link-tree where all my links are available ⬇️
  <p align=""> <img src="https://github-profile-trophy.vercel.app/?username=ArchismwanChatterjee&theme=juicyfresh&row=2&column=3" alt=ArchismwanChatterjee />  
 
  <div align="center">
-  <h2> My Contributions 😄</h2>
+  <h2> My Contributions 🤩</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArchismwanChatterjee/ArchismwanChatterjee/output/github-contribution-grid-snake-dark.svg" />
   
