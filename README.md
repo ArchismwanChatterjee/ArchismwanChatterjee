@@ -60,13 +60,12 @@ Click here to access my link-tree where all my links are available ⬇️
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-  
 - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArchismwanChatterjee&theme=gotham" alt="ArchismwanChatterjee" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArchismwanChatterjee&theme=gotham" alt="ArchismwanChatterjee" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArchismwanChatterjee&theme=gotham" alt="ArchismwanChatterjee" />
  
  - **<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"> My Profile Trophies:**   
- <p align=""> <img src="https://github-profile-trophy.vercel.app/?username=ArchismwanChatterjee&theme=juicyfresh&row=2&column=3" alt=ArchismwanChatterjee />  
+ <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ArchismwanChatterjee&theme=juicyfresh&row=2&column=3" alt=ArchismwanChatterjee />  
 
  <div align="center">
   <h2> My Contributions 🤩</h2>
