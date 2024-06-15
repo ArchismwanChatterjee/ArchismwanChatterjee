@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h1><em>Link-Tree</em></h1>
 Click here to access my link-tree where all my links are available ⬇️
 
-[Link-Tree](https://archismwanchatterjee.github.io/LinkTree/)
+[Link-Tree](https://archismwanchatterjee.github.io/Profile_Card/)
 
 <p><h2><em>My motivations :</h2></em></p>
 <p><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"></p>
