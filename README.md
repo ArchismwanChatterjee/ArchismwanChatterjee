@@ -19,7 +19,7 @@ With expertise in **Generative AI, Classical ML Algorithms, Neural Networks, Dee
 
 My experience spans from **developing AI-powered applications and ML models** to **designing and deploying full-stack web solutions** seamlessly. Always eager to learn, grow, and adapt, I aim to leverage technology to make a meaningful impact.  
 
-⚡ Fun fact: White-faced capuchin monkeys greet each other by sticking fingers up each other’s noses 🐒  
+
 
 ---
 
