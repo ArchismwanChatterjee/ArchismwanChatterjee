@@ -98,10 +98,16 @@ My experience spans from **developing AI-powered applications and ML models** to
 
 ## 📚 Research Publications
 
-- **🧠 A New Hybrid Bagging Ensemble Machine Learning Model to Identify Parkinson’s Diseases Based on Voice Data**  
-  📌 *IEEE Xplore, 2024*  
-  🔗 [View Publication](https://ieeexplore.ieee.org/abstract/document/10881138)  
+- **🛰️ Clustering Based Erosion Analysis of Kaziranga National Park Boundary for Flood Mitigation Planning**
+  📌 *IEEE India Geoscience and Remote Sensing Symposium (InGARSS), 2025 — IEEE Xplore*
+  🔗 [View Publication](https://ieeexplore.ieee.org/document/11584071)
+  🛠️ *Tech:* Python, Remote Sensing, Deep Learning, Unsupervised Clustering, GIS
+
+- **🧠 A New Hybrid Bagging Ensemble Machine Learning Model to Identify Parkinson’s Diseases Based on Voice Data**
+  📌 *International Conference on Computational Intelligence and Networks (CINE), 2024 — IEEE Xplore*
+  🔗 [View Publication](https://ieeexplore.ieee.org/abstract/document/10881138)
   🛠️ *Tech:* Python, Tonal Analysis, H-Bagging, M-Bootstrap, Naïve Bayes, KNN, Decision Trees
+
 
 ---
 
